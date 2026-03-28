@@ -1,0 +1,10 @@
+# PowerShell
+*.tmp
+*.bak
+
+# OS / editor
+Thumbs.db
+.DS_Store
+
+# Optional local notes
+local/
